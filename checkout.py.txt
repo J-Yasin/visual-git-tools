@@ -1,5 +1,5 @@
 def calc_total (price):
 	total = 0
-	for i in price:
-		total = total + p
+	for i in price:			#for every item
+		total = total + p	#update total
 	return total
