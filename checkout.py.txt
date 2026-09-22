@@ -1,0 +1,5 @@
+def calc_total (price):
+	total = 0
+	for i in price:
+		total = total + p
+	return total
