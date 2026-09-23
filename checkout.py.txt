@@ -3,3 +3,5 @@ def calc_total (price):
 	for i in price:			#for every item
 		total = total + p	#update total
 	return round (total, 2)
+
+print(calculate_total([5, 10.25, 2.5]))
